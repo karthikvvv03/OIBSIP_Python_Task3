@@ -117,6 +117,13 @@ Password history can be sensitive. Keeping only five generated values in memory 
 - Accessibility improvements
 - Packaging with PyInstaller for a standalone executable
 
-## 📄 License
+## Internship Submission
 
-MIT License
+This project is prepared as a Python Password Generator for the OIBSIP internship.
+
+**Required repository name:** `OIBSIP_Python_Task3`
+
+
+## Author
+
+**Venkatavasudevakarthik Vure**
