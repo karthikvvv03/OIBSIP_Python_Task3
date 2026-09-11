@@ -1,4 +1,4 @@
-# 🔐 Locksmith — Secure Password Generator
+# 🔐 PASSWORD GENERATOR — Random Password Generator
 
 A polished desktop password generator built entirely with Python. This project implements the advanced internship requirements with a security-first approach and a portfolio-ready Tkinter interface.
 
